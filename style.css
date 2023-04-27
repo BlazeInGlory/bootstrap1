@@ -1,0 +1,15 @@
+.bg-gray {
+  background-color: rgb(175, 174, 174);
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-around {
+  justify-content: space-around;
+}
+
+.bg-white {
+  background-color: white;
+}
